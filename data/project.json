@@ -1,0 +1,35 @@
+[
+    {
+    "string" : "/img/pjt1.jpg",
+    "string" : "술취한 원숭이",
+    "string" : "부트스트랩 …",
+    "boolean" : "TRUE",
+    "btns" : [
+        ["github","link","/img/1.jpg"],
+        ["figma","link","/img/1.jpg"],
+        ["notion","link","/img/1.jpg"]
+    ]
+    },
+    {
+    "string" : "/img/pjt2.jpg",
+    "string" : "리엑트페이지",
+    "string" : "리엑트 …",
+    "boolean" : "TRUE",
+    "btns" : [
+        ["github","link","/img/1.jpg"],
+        ["figma","link","/img/1.jpg"],
+        ["notion","link","/img/1.jpg"]
+        ]
+    },
+    {
+    "string" : "/img/pjt3.jpg",
+    "string" : "ajax",
+    "string" : "ajax를 이용한…",
+    "boolean" : "TRUE",
+    "btns" : [
+        ["github","link","/img/1.jpg"],
+        ["figma","link","/img/1.jpg"],
+        ["notion","link","/img/1.jpg"]
+    ]
+    }
+]

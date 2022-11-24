@@ -1,0 +1,37 @@
+[
+  {
+    "navTitle": "",
+    "navLink": "#home",
+    "navTarget": "",
+    "navClass": "scrollPage",
+    "isNav": true
+  },
+  {
+    "navTitle": "ABOUT",
+    "navLink": "#about",
+    "navTarget": "",
+    "navClass": "scrollPage",
+    "isNav": true
+  },
+  {
+    "navTitle": "SKILL",
+    "navLink": "#skill",
+    "navTarget": "",
+    "navClass": "scrollPage",
+    "isNav": true
+  },
+  {
+    "navTitle": "PROJECT",
+    "navLink": "#project",
+    "navTarget": "",
+    "navClass": "scrollPage",
+    "isNav": true
+  },
+  {
+    "navTitle": "CONTACT",
+    "navLink": "#contact",
+    "navTarget": "",
+    "navClass": "scrollPage",
+    "isNav": true
+  }
+]
